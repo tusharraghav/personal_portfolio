@@ -106,4 +106,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 Author
 
-Tushar RaghavEmail: tusharraghav69@gmail.comLinkedIn: linkedin.com/in/tusharraghavGitHub: github.com/tusharraghav
+Tushar RaghavEmail: tusharraghav69@gmail.com   
+LinkedIn: linkedin.com/in/tusharraghav
+GitHub: github.com/tusharraghav
